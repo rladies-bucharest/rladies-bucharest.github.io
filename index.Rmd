@@ -1,8 +1,8 @@
 ---
 title: "Bucharest Chapter"
+output: html_document
 ---
-![R-Ladies Bucharest](https://github.com/rladies-bucharest/website/images/Logo.png)
-<img src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" data-canonical-src="https://github.com/rladies/starter-kit/blob/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" height="100" />
+
 
 ## Latest News
 
