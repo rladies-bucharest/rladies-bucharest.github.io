@@ -4,7 +4,7 @@ navbar:
   left:
     - text: "Home"
       href: index.html
-    - text: "Meetups"
+    - text: "Events"
       href: meetups.html
   right:
     - icon: fa-facebook fa-lg
