@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo on R Ladies Bucharest Community</title>
-    <link>/tags/hugo/</link>
-    <description>Recent content in Hugo on R Ladies Bucharest Community</description>
+    <title>hugo on R Ladies Bucharest Community</title>
+    <link>/rladies-bucharest/website/tags/hugo/</link>
+    <description>Recent content in hugo on R Ladies Bucharest Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/rladies-bucharest/website/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>O versiune noua de site</title>
-      <link>/2020/02/o-versiune-noua-de-site/</link>
+      <link>/rladies-bucharest/website/2020/02/o-versiune-noua-de-site/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/02/o-versiune-noua-de-site/</guid>
+      <guid>/rladies-bucharest/website/2020/02/o-versiune-noua-de-site/</guid>
       <description>&lt;p&gt;Prima versiune de site a comunitatii construita in R cu blogdown si Hugo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rstudio::conf 2020 &amp; tranquilpeak theme</title>
-      <link>/2020/01/rstudioconf-2020-tranquilpeak-theme/</link>
+      <link>/rladies-bucharest/website/2020/01/rstudioconf-2020-tranquilpeak-theme/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/2020/01/rstudioconf-2020-tranquilpeak-theme/</guid>
+      <guid>/rladies-bucharest/website/2020/01/rstudioconf-2020-tranquilpeak-theme/</guid>
       <description>&lt;p&gt;In urma intalniri din Ianuarie 2020, mi-am dorit sa ne organizam informatia comunitatii intr-un site construit de noi cu R. Prin urmare, am inceput sa studiez subiectul si am descoperit thema Tranquilpeak din framework-ul Hugo.&lt;/p&gt;</description>
     </item>
     
