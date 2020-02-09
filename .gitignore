@@ -45,8 +45,7 @@ README.html
 *.DS_Store
 .AppleDouble
 .LSOverride
-####### WIN
-Thumbs.db
+
 # Icon must end with two \r
 Icon
 

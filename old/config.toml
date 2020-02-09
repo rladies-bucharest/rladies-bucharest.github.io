@@ -77,10 +77,10 @@ draft = false
   url = "/#about"
 [[menu.main]]
   weight = 3
-  identifier = "tags"
-  name = "Tags"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  url = "/tags"
+  identifier = "categories"
+  name = "Categories"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-categories\"></i>"
+  url = "/categories"
 [[menu.main]]
   weight = 4
   identifier = "archives"
