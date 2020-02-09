@@ -199,7 +199,7 @@ draft = false
 
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
-  customCSS = ["css/my-style.css"]
+  customCSS = ["css/my-style-blue.css"]
   # [[params.customCSS]]
   #   href = "css/mystyle.css"
 
