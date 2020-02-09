@@ -1,0 +1,19 @@
+---
+title: "Bucharest Chapter"
+output: html_document
+---
+
+
+## Latest News
+
+Last meetup this year : Tuesday, 17th December </text>
+
+Register [here](https://www.meetup.com/rladies-bucharest/events/266830015/)
+
+
+## Code of Conduct
+We follow the [Code of Conduct](https://github.com/rladies/starter-kit/wiki/Code-of-Conduct) and encourage participants to read [Rules & Guidelines of R-Ladies](https://github.com/rladies/starter-kit/blob/master/R-Ladies_RulesGuidelines.pdf).
+
+## FAQ
+
+TBU
