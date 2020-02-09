@@ -12,5 +12,6 @@ Encoding: UTF-8
 RnwWeave: Sweave
 LaTeX: pdfLaTeX
 
-BuildType: Website
-WebsitePath: ~/GitHub/website
+BuildType: None
+
+QuitChildProcessesOnExit: Yes
