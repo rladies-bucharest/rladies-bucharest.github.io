@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on R Ladies Bucharest Community</title>
-    <link>/./categories/</link>
+    <link>/rladies-bucharest/website/categories/</link>
     <description>Recent content in Categories on R Ladies Bucharest Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/./categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/rladies-bucharest/website/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>introducere</title>
-      <link>/./categories/introducere/</link>
+      <link>/rladies-bucharest/website/categories/introducere/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/./categories/introducere/</guid>
+      <guid>/rladies-bucharest/website/categories/introducere/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rladies-bucharest</title>
-      <link>/./categories/rladies-bucharest/</link>
+      <link>/rladies-bucharest/website/categories/rladies-bucharest/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/./categories/rladies-bucharest/</guid>
+      <guid>/rladies-bucharest/website/categories/rladies-bucharest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meetups</title>
-      <link>/./categories/meetups/</link>
+      <link>/rladies-bucharest/website/categories/meetups/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/./categories/meetups/</guid>
+      <guid>/rladies-bucharest/website/categories/meetups/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prezentari</title>
-      <link>/./categories/prezentari/</link>
+      <link>/rladies-bucharest/website/categories/prezentari/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/./categories/prezentari/</guid>
+      <guid>/rladies-bucharest/website/categories/prezentari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blog</title>
-      <link>/./categories/blog/</link>
+      <link>/rladies-bucharest/website/categories/blog/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/./categories/blog/</guid>
+      <guid>/rladies-bucharest/website/categories/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tranquilpeak</title>
-      <link>/./categories/tranquilpeak/</link>
+      <link>/rladies-bucharest/website/categories/tranquilpeak/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/./categories/tranquilpeak/</guid>
+      <guid>/rladies-bucharest/website/categories/tranquilpeak/</guid>
       <description></description>
     </item>
     

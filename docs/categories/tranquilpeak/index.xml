@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tranquilpeak on R Ladies Bucharest Community</title>
-    <link>/./categories/tranquilpeak/</link>
+    <link>/rladies-bucharest/website/categories/tranquilpeak/</link>
     <description>Recent content in tranquilpeak on R Ladies Bucharest Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 29 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/./categories/tranquilpeak/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/rladies-bucharest/website/categories/tranquilpeak/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Rstudio::conf 2020 &amp; tranquilpeak theme</title>
-      <link>/./2020/01/rstudioconf-2020-tranquilpeak-theme/</link>
+      <link>/rladies-bucharest/website/2020/01/rstudioconf-2020-tranquilpeak-theme/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/./2020/01/rstudioconf-2020-tranquilpeak-theme/</guid>
+      <guid>/rladies-bucharest/website/2020/01/rstudioconf-2020-tranquilpeak-theme/</guid>
       <description>&lt;p&gt;In urma intalniri din Ianuarie 2020, mi-am dorit sa ne organizam informatia comunitatii intr-un site construit de noi cu R. Prin urmare, am inceput sa studiez subiectul si am descoperit thema Tranquilpeak din framework-ul Hugo.&lt;/p&gt;</description>
     </item>
     
