@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>prezentari on R Ladies Bucharest Community</title>
-    <link>/rladies-bucharest/website/categories/prezentari/</link>
+    <link>/website/categories/prezentari/</link>
     <description>Recent content in prezentari on R Ladies Bucharest Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Jan 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/rladies-bucharest/website/categories/prezentari/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/website/categories/prezentari/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Prezentari R Ladies Bucharest</title>
-      <link>/rladies-bucharest/website/2020/01/prezentari-r-ladies-bucharest/</link>
+      <link>/website/2020/01/prezentari-r-ladies-bucharest/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/rladies-bucharest/website/2020/01/prezentari-r-ladies-bucharest/</guid>
+      <guid>/website/2020/01/prezentari-r-ladies-bucharest/</guid>
       <description>&lt;p&gt;Prezentarile sunt disponibile pe pagina noastra github.&lt;/p&gt;</description>
     </item>
     

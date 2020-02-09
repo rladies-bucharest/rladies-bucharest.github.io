@@ -2,75 +2,75 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on R Ladies Bucharest Community</title>
-    <link>/rladies-bucharest/website/tags/</link>
+    <link>/website/tags/</link>
     <description>Recent content in Tags on R Ladies Bucharest Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/rladies-bucharest/website/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/website/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>blogdown</title>
-      <link>/rladies-bucharest/website/tags/blogdown/</link>
+      <link>/website/tags/blogdown/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/rladies-bucharest/website/tags/blogdown/</guid>
+      <guid>/website/tags/blogdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>/rladies-bucharest/website/tags/hugo/</link>
+      <link>/website/tags/hugo/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/rladies-bucharest/website/tags/hugo/</guid>
+      <guid>/website/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rladies</title>
-      <link>/rladies-bucharest/website/tags/rladies/</link>
+      <link>/website/tags/rladies/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/rladies-bucharest/website/tags/rladies/</guid>
+      <guid>/website/tags/rladies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>2019</title>
-      <link>/rladies-bucharest/website/tags/2019/</link>
+      <link>/website/tags/2019/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/rladies-bucharest/website/tags/2019/</guid>
+      <guid>/website/tags/2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>prezentari</title>
-      <link>/rladies-bucharest/website/tags/prezentari/</link>
+      <link>/website/tags/prezentari/</link>
       <pubDate>Fri, 31 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/rladies-bucharest/website/tags/prezentari/</guid>
+      <guid>/website/tags/prezentari/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hexo theme</title>
-      <link>/rladies-bucharest/website/tags/hexo-theme/</link>
+      <link>/website/tags/hexo-theme/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/rladies-bucharest/website/tags/hexo-theme/</guid>
+      <guid>/website/tags/hexo-theme/</guid>
       <description></description>
     </item>
     
     <item>
       <title>responsive</title>
-      <link>/rladies-bucharest/website/tags/responsive/</link>
+      <link>/website/tags/responsive/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>/rladies-bucharest/website/tags/responsive/</guid>
+      <guid>/website/tags/responsive/</guid>
       <description></description>
     </item>
     

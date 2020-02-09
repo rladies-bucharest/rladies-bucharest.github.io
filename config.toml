@@ -11,9 +11,9 @@
 # But if you want to add local images, you can put your images directly in `source/assets/images` folder
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
-
-baseURL = "https://github.com/rladies-bucharest/website/"
 publishDir = "docs"
+baseURL = "https://rladies-bucharest.github.io/website/"
+
 #publishDir = "./"
 #baseURL = "https://github.com/rladies-bucharest/website/"
 

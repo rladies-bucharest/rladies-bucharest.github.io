@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>rladies on R Ladies Bucharest Community</title>
-    <link>/rladies-bucharest/website/tags/rladies/</link>
+    <link>/website/tags/rladies/</link>
     <description>Recent content in rladies on R Ladies Bucharest Community</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Feb 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/rladies-bucharest/website/tags/rladies/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/website/tags/rladies/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>O versiune noua de site</title>
-      <link>/rladies-bucharest/website/2020/02/o-versiune-noua-de-site/</link>
+      <link>/website/2020/02/o-versiune-noua-de-site/</link>
       <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>/rladies-bucharest/website/2020/02/o-versiune-noua-de-site/</guid>
+      <guid>/website/2020/02/o-versiune-noua-de-site/</guid>
       <description>&lt;p&gt;Prima versiune de site a comunitatii construita in R cu blogdown si Hugo.&lt;/p&gt;</description>
     </item>
     
