@@ -1,3 +1,6 @@
+"dependencies": {
+  "eslint-utils": ">=1.4.1"
+}
 {
     "parserOptions": {
         "ecmaVersion": 6
