@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/website/project/project1/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/project/project2/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/project/project3/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/project/project4/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/categories/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/post/2015-07-23-r-rmarkdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/tags/plot/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/post/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/categories/r/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/tags/r-markdown/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/tags/regression/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/tags/</loc>
+    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/post/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/tags/go/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/tags/golang/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/tags/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/tags/themes/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/website/tags/bootstrap/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/tags/css/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/about/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/tags/highlight-js/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/tags/html/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/tags/js/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/project/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/tags/responsive/</loc>
+  </url>
+  
+  <url>
+    <loc>/website/tags/syntax-highlighting/</loc>
+  </url>
+  
+</urlset>
