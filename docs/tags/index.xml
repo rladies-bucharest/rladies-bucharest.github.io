@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on R Ladies Bucharest</title>
-    <link>https://rladies-bucharest.github.io/website/tags/</link>
+    <link>http://www.rladiesbucharest.org/tags/</link>
     <description>Recent content in Tags on R Ladies Bucharest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="https://rladies-bucharest.github.io/website/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.rladiesbucharest.org/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>plot</title>
-      <link>https://rladies-bucharest.github.io/website/tags/plot/</link>
+      <link>http://www.rladiesbucharest.org/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/plot/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://rladies-bucharest.github.io/website/tags/r-markdown/</link>
+      <link>http://www.rladiesbucharest.org/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/r-markdown/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://rladies-bucharest.github.io/website/tags/regression/</link>
+      <link>http://www.rladiesbucharest.org/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/regression/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>https://rladies-bucharest.github.io/website/tags/go/</link>
+      <link>http://www.rladiesbucharest.org/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/go/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>https://rladies-bucharest.github.io/website/tags/golang/</link>
+      <link>http://www.rladiesbucharest.org/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/golang/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>https://rladies-bucharest.github.io/website/tags/hugo/</link>
+      <link>http://www.rladiesbucharest.org/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/hugo/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://rladies-bucharest.github.io/website/tags/themes/</link>
+      <link>http://www.rladiesbucharest.org/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/themes/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bootstrap</title>
-      <link>https://rladies-bucharest.github.io/website/tags/bootstrap/</link>
+      <link>http://www.rladiesbucharest.org/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/bootstrap/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>https://rladies-bucharest.github.io/website/tags/css/</link>
+      <link>http://www.rladiesbucharest.org/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/css/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>highlight-js</title>
-      <link>https://rladies-bucharest.github.io/website/tags/highlight-js/</link>
+      <link>http://www.rladiesbucharest.org/tags/highlight-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/highlight-js/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/highlight-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>https://rladies-bucharest.github.io/website/tags/html/</link>
+      <link>http://www.rladiesbucharest.org/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/html/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>js</title>
-      <link>https://rladies-bucharest.github.io/website/tags/js/</link>
+      <link>http://www.rladiesbucharest.org/tags/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/js/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>responsive</title>
-      <link>https://rladies-bucharest.github.io/website/tags/responsive/</link>
+      <link>http://www.rladiesbucharest.org/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/responsive/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax-highlighting</title>
-      <link>https://rladies-bucharest.github.io/website/tags/syntax-highlighting/</link>
+      <link>http://www.rladiesbucharest.org/tags/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/website/tags/syntax-highlighting/</guid>
+      <guid>http://www.rladiesbucharest.org/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     

@@ -1,4 +1,4 @@
-baseURL = "https://rladies-bucharest.github.io/website/"
+baseURL = "http://www.rladiesbucharest.org/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "R Ladies Bucharest"
