@@ -6,42 +6,15 @@
     <description>Recent content in Tags on R Ladies Bucharest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>plot</title>
-      <link>/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/plot/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R Markdown</title>
-      <link>/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/r-markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>regression</title>
-      <link>/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/tags/regression/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>go</title>
       <link>/tags/go/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/go/</guid>
       <description></description>
@@ -50,7 +23,7 @@
     <item>
       <title>golang</title>
       <link>/tags/golang/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/golang/</guid>
       <description></description>
@@ -59,7 +32,7 @@
     <item>
       <title>hugo</title>
       <link>/tags/hugo/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/hugo/</guid>
       <description></description>
@@ -68,9 +41,36 @@
     <item>
       <title>themes</title>
       <link>/tags/themes/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 28 Sep 2019 00:00:00 +0000</pubDate>
       
       <guid>/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Tue, 23 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
