@@ -11,6 +11,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     author = "R Ladies Bucharest"
     description = "Community Website"
     githubUsername = "RLadies-Bucharest"
+    dateFormat="2020/01/02"
     accent = "#88398A"
     showBorder = true
     backgroundColor = "white"
@@ -56,7 +57,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     weight = 2
 
 [[menu.icon]]
-    url = "https://twitter.com/rladiesbucharest/"
+    url = "https://twitter.com/rladiesbuchares/"
     name = "twitter"
     weight = 3
 

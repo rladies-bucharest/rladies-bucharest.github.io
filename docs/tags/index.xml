@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on R Ladies Bucharest</title>
-    <link>http://www.rladiesbucharest.org/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on R Ladies Bucharest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-	<atom:link href="http://www.rladiesbucharest.org/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>plot</title>
-      <link>http://www.rladiesbucharest.org/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>http://www.rladiesbucharest.org/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>http://www.rladiesbucharest.org/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
     <item>
       <title>go</title>
-      <link>http://www.rladiesbucharest.org/tags/go/</link>
+      <link>/tags/go/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/go/</guid>
+      <guid>/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golang</title>
-      <link>http://www.rladiesbucharest.org/tags/golang/</link>
+      <link>/tags/golang/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/golang/</guid>
+      <guid>/tags/golang/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hugo</title>
-      <link>http://www.rladiesbucharest.org/tags/hugo/</link>
+      <link>/tags/hugo/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/hugo/</guid>
+      <guid>/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>http://www.rladiesbucharest.org/tags/themes/</link>
+      <link>/tags/themes/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/themes/</guid>
+      <guid>/tags/themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>bootstrap</title>
-      <link>http://www.rladiesbucharest.org/tags/bootstrap/</link>
+      <link>/tags/bootstrap/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/bootstrap/</guid>
+      <guid>/tags/bootstrap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>css</title>
-      <link>http://www.rladiesbucharest.org/tags/css/</link>
+      <link>/tags/css/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/css/</guid>
+      <guid>/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>highlight-js</title>
-      <link>http://www.rladiesbucharest.org/tags/highlight-js/</link>
+      <link>/tags/highlight-js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/highlight-js/</guid>
+      <guid>/tags/highlight-js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>html</title>
-      <link>http://www.rladiesbucharest.org/tags/html/</link>
+      <link>/tags/html/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/html/</guid>
+      <guid>/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>js</title>
-      <link>http://www.rladiesbucharest.org/tags/js/</link>
+      <link>/tags/js/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/js/</guid>
+      <guid>/tags/js/</guid>
       <description></description>
     </item>
     
     <item>
       <title>responsive</title>
-      <link>http://www.rladiesbucharest.org/tags/responsive/</link>
+      <link>/tags/responsive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/responsive/</guid>
+      <guid>/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>syntax-highlighting</title>
-      <link>http://www.rladiesbucharest.org/tags/syntax-highlighting/</link>
+      <link>/tags/syntax-highlighting/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/tags/syntax-highlighting/</guid>
+      <guid>/tags/syntax-highlighting/</guid>
       <description></description>
     </item>
     
