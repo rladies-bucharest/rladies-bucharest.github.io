@@ -31,11 +31,16 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     name = "Despre"
     weight = 2
 
-[[menu.main]]
-    url = "/post/"
-    name = "Posts"
-    weight = 3
+#[[menu.main]]
+ #   url = "/post/"
+  #  name = "Posts"
+   # weight = 3
 
+[[menu.main]]
+    url = "https://rladies-bucharest.github.io/iwd2020/"
+    name = "IWD 2020"
+    weight = 4
+    
 #[[menu.main]]
  #   url = "/project/"
   #  name = "Projects"
@@ -69,4 +74,3 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     url = "https://www.meetup.com/rladies-bucharest/"
     name = "meetup"
     weight = 5
-    
