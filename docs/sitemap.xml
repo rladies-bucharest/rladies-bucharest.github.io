@@ -3,97 +3,41 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/project/project1/</loc>
+    <loc>/project/2020-03-08-ziua-femeii/</loc>
   </url>
   
   <url>
-    <loc>/project/project2/</loc>
+    <loc>/tags/bucharest/</loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/project3/</loc>
-  </url>
-  
-  <url>
-    <loc>/project/project4/</loc>
-  </url>
-  
-  <url>
-    <loc>/post/creating-a-new-theme/</loc>
-    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/go/</loc>
-    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/golang/</loc>
-    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/hugo/</loc>
-    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
+    <loc>/post/2020-09-05-final-de-sezon/</loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/</loc>
-    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/tags/</loc>
-    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/themes/</loc>
-    <lastmod>2019-09-28T00:00:00+00:00</lastmod>
+    <lastmod>2020-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/categories/</loc>
-    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/r/</loc>
-    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/r-markdown/</loc>
-    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2019-07-23T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bootstrap/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/css/</loc>
   </url>
   
   <url>
@@ -101,27 +45,15 @@
   </url>
   
   <url>
-    <loc>/tags/highlight-js/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/html/</loc>
-  </url>
-  
-  <url>
-    <loc>/tags/js/</loc>
-  </url>
-  
-  <url>
     <loc>/project/</loc>
   </url>
   
   <url>
-    <loc>/tags/responsive/</loc>
+    <loc>/tags/simona-gradinaru/</loc>
   </url>
   
   <url>
-    <loc>/tags/syntax-highlighting/</loc>
+    <loc>/tags/ziua-femeii/</loc>
   </url>
   
 </urlset>

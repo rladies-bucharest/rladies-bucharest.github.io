@@ -1,13 +1,13 @@
 {
-    "path" : "~/GitHub/website",
-    "sortOrder" : [
+    "path": "~/GitHub/website/docs",
+    "sortOrder": [
         {
-            "ascending" : false,
-            "columnIndex" : 1
+            "columnIndex": 1,
+            "ascending": false
         },
         {
-            "ascending" : false,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": false
         }
     ]
 }
