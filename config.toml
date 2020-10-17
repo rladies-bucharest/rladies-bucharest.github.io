@@ -3,7 +3,6 @@ publishDir = "docs"
 languageCode = "en-us"
 title = "R Ladies Bucharest"
 theme = "minimal"
-disqusShortname = "RLadies-Bucharest" # delete this to disable disqus comments
 googleAnalytics = "UA-140459061-2"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 

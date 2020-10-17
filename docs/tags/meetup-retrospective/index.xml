@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on R Ladies Bucharest</title>
-    <link>/post/</link>
-    <description>Recent content in Posts on R Ladies Bucharest</description>
+    <title>meetup-retrospective on R Ladies Bucharest</title>
+    <link>/tags/meetup-retrospective/</link>
+    <description>Recent content in meetup-retrospective on R Ladies Bucharest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/meetup-retrospective/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <description>Deschiderea noului sezon de intalniri, a pornit cu o revedere - online - a speakerilor din intalnirile anterioare.
 Ne-am bucurat sa ii revedem pe:
  Ana Maria Niculescu, Lead Data Scientist Simona Grădinaru, Market Research, Data Scientist, Drd Andra Garoi, Jr Data Scientist, Data Science Master Student Maria Romanescu, Jr Data Scientist, Data Science Master Student Alexandra Conda, Data Science Master Student Mihai David, Banking, Data Scientist Cristi Cernat, IT Architect &amp;amp; Docker Expert.</description>
-    </item>
-    
-    <item>
-      <title>Final de sezon 2019/2020</title>
-      <link>/post/2020-09-05-final-de-sezon/</link>
-      <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/post/2020-09-05-final-de-sezon/</guid>
-      <description>R-Ladies Bucharest la finalul primului an de intalniri este Este o comunitate pentru orice femeie sau tanara care doreste sa foloseasca R pentru analize statistice, programarea de aplicatii sau contruirea rapida de MVPs in domeniul data science. Este acea comunitate sigura, deschisa tuturor participantilor si orientata spre invatare continuua. Este locul in care poti intreba de o mie de ori
- De ce R?, Cum automatizez cu R raportul saptamanal din Excel?</description>
     </item>
     
   </channel>

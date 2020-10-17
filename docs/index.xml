@@ -6,7 +6,7 @@
     <description>Recent content on R Ladies Bucharest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,13 +23,24 @@ Ne bucuram ca am tinut aceasta intalnire online, folosind google meet si astfel 
     </item>
     
     <item>
+      <title>Primul panel al comunitatii pe teme de R in statistica, machine learning si   data science</title>
+      <link>/post/2020-09-30-primul-panel-al-comunitatii-pe-teme-de-r-in-statistica-machine-learning-si-data-science/</link>
+      <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2020-09-30-primul-panel-al-comunitatii-pe-teme-de-r-in-statistica-machine-learning-si-data-science/</guid>
+      <description>Deschiderea noului sezon de intalniri, a pornit cu o revedere - online - a speakerilor din intalnirile anterioare.
+Ne-am bucurat sa ii revedem pe:
+ Ana Maria Niculescu, Lead Data Scientist Simona Grădinaru, Market Research, Data Scientist, Drd Andra Garoi, Jr Data Scientist, Data Science Master Student Maria Romanescu, Jr Data Scientist, Data Science Master Student Alexandra Conda, Data Science Master Student Mihai David, Banking, Data Scientist Cristi Cernat, IT Architect &amp;amp; Docker Expert.</description>
+    </item>
+    
+    <item>
       <title>Final de sezon 2019/2020</title>
       <link>/post/2020-09-05-final-de-sezon/</link>
       <pubDate>Sat, 05 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>/post/2020-09-05-final-de-sezon/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <description>R-Ladies Bucharest la finalul primului an de intalniri este Este o comunitate pentru orice femeie sau tanara care doreste sa foloseasca R pentru analize statistice, programarea de aplicatii sau contruirea rapida de MVPs in domeniul data science. Este acea comunitate sigura, deschisa tuturor participantilor si orientata spre invatare continuua. Este locul in care poti intreba de o mie de ori
+ De ce R?, Cum automatizez cu R raportul saptamanal din Excel?</description>
     </item>
     
     <item>
