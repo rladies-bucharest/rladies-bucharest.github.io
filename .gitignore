@@ -35,6 +35,7 @@ vignettes/*.pdf
 *.knit.md
 
 # Files from an R project
+*.Rproj.user
 .Rproj.user
 .Ruserdata
 .Rhistory
