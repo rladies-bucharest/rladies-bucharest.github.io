@@ -1,10 +1,11 @@
-baseURL = "http://www.rladiesbucharest.org/"
+baseURL = "https://www.rladiesbucharest.org/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "R Ladies Bucharest"
 theme = "minimal"
 googleAnalytics = "UA-140459061-2"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 
 [params]
     author = "R Ladies Bucharest"

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on R Ladies Bucharest</title>
-    <link>http://www.rladiesbucharest.org/project/</link>
+    <link>https://www.rladiesbucharest.org/project/</link>
     <description>Recent content in Projects on R Ladies Bucharest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.rladiesbucharest.org/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rladiesbucharest.org/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>8 Martie - Ziua Internationala a Femeii</title>
-      <link>http://www.rladiesbucharest.org/project/2020-03-08-ziua-femeii/</link>
+      <link>https://www.rladiesbucharest.org/project/2020-03-08-ziua-femeii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/project/2020-03-08-ziua-femeii/</guid>
+      <guid>https://www.rladiesbucharest.org/project/2020-03-08-ziua-femeii/</guid>
       <description>Ne-am propus sa organizam o intalnire speciala, in care sa implicam cat mai multe femei cu ajutorul carora sa construim o poveste folosind R.
 Simona Gradinaru, data scientist, ne-a pregatit o analiza ampla folosind datele INS. Pornind de la aceasta initiativa si analiza, Ana-Maria si Claudia Voicila au construit cateva exemple care marcheaza ziua de 8 Martie. Exemplele au fost publicate pe pagina de facebook a grupului.
 Ne bucuram ca am tinut aceasta intalnire online, folosind google meet si astfel am continuat seria intalnirilor despre R, in ciuda pandemiei pe care o traversam.</description>
@@ -20,10 +20,10 @@ Ne bucuram ca am tinut aceasta intalnire online, folosind google meet si astfel 
     
     <item>
       <title>Programam impreuna martea?</title>
-      <link>http://www.rladiesbucharest.org/project/2021-01-03-code-along-tidytuesday/</link>
+      <link>https://www.rladiesbucharest.org/project/2021-01-03-code-along-tidytuesday/</link>
       <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://www.rladiesbucharest.org/project/2021-01-03-code-along-tidytuesday/</guid>
+      <guid>https://www.rladiesbucharest.org/project/2021-01-03-code-along-tidytuesday/</guid>
       <description>Incepand cu 2021, incercam un format nou de intalniri: #tidytuesday.
 Acest format este initiat in 2018 de Jesse Maegan.
 Obiectivul acestor intalniri este

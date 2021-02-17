@@ -1,4 +1,4 @@
-baseURL = "http://www.rladiesbucharest.org/"
+baseURL = "https://www.rladiesbucharest.org/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "R Ladies Bucharest"
