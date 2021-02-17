@@ -17,7 +17,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
     highlight = true
     highlightStyle = "default"
     highlightLanguages = ["R","go", "haskell", "kotlin", "scala", "swift", "Markdown"]
-    copyright= "2020 © All rights reserved. R Ladies Bucharest. Powered by <a href=\"https://gohugo.io\"> Hugo </a> and <a href=\"https://calintat.github.io\"> Minimal </a> ."
+    copyright= "2020-2021 © All rights reserved. R Ladies Bucharest. Powered by <a href=\"https://gohugo.io\"> Hugo </a> and <a href=\"https://calintat.github.io\"> Minimal </a> ."
 
 
 [[menu.main]]

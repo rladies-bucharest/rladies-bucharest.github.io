@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tidytuesday on R Ladies Bucharest</title>
+    <link>http://www.rladiesbucharest.org/tags/tidytuesday/</link>
+    <description>Recent content in tidytuesday on R Ladies Bucharest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="http://www.rladiesbucharest.org/tags/tidytuesday/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Programam impreuna martea?</title>
+      <link>http://www.rladiesbucharest.org/project/2021-01-03-code-along-tidytuesday/</link>
+      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.rladiesbucharest.org/project/2021-01-03-code-along-tidytuesday/</guid>
+      <description>Incepand cu 2021, incercam un format nou de intalniri: #tidytuesday.
+Acest format este initiat in 2018 de Jesse Maegan.
+Obiectivul acestor intalniri este
+ construirea unui mediu sigur si incurajator pentru participanti exersarea competentelor de prelucrare si vizualizare a datelor.  Pentru a porni acest proiect cautam mentori si participanti!
+  Participantii
+ sunt utilizatori de R, incepatori sau intermediari au acces la o conexiune de internet si un PC/laptop sunt confortabili sa isi instaleze singuri aplicatii pe PC vor participa saptamanal, dar cel putin 1 la 3 saptamani isi doresc sa-si imbunatateasca competentele in analiza datelor vor respecta codul conduita.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xaringan on R Ladies Bucharest</title>
+    <link>http://www.rladiesbucharest.org/tags/xaringan/</link>
+    <description>Recent content in xaringan on R Ladies Bucharest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 15 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://www.rladiesbucharest.org/tags/xaringan/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meetup14 - chRistmas shaRing Special Edition</title>
+      <link>http://www.rladiesbucharest.org/post/2020-12-15-meetup14-christmas-sharing-special-edition/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.rladiesbucharest.org/post/2020-12-15-meetup14-christmas-sharing-special-edition/</guid>
+      <description>O noua intalnire despre R, in care am descoperit cateva lucruri interesante. R-Ladies Bucharest Community #14: chRistmas shaRing Special Edition a adus speaker diversi din comunitatea locala de R.
+ We had our dearest supporter &amp;amp; member, Gabriel Stavre opening the meetup with a special musical moment for #goodRvibes. (EN) Marius Tita - RPA application using golem framework for shiny (EN) Simona Gradinaru - Using openxlsx to speed up stylish reports &amp;amp; blogdown &amp;amp; markdown: blogging and fully reproductible documents (EN) Gabriel Stavre - Ridge Plot ( &amp;amp; mixing intro #goodRvibes) (EN) Ines Teaca - Starting with xaringan package &amp;amp; kunichio theme (RO) Maria Romanescu - Basics with googlsheets4 &amp;amp; googledrive for a collaborative approach  Pentru cei care nu ati reusit sa ajungeti, inregistrarea intalnirii este acum disponibila pe youtube:</description>
+    </item>
+    
+  </channel>
+</rss>

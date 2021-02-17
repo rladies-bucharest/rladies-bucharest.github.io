@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        
+
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Meetup15 - Simona Gradinaru despre digital analytics cu R</title>
+        
+        <style>
+
+    html body {
+        font-family: 'Raleway', sans-serif;
+        background-color: white;
+    }
+
+    :root {
+        --accent: #88398A;
+        --border-width:  5px ;
+    }
+
+</style>
+
+
+<link rel="stylesheet" href="http://www.rladiesbucharest.org/css/main.css">
+
+
+
+
+
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+
+
+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"> 
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+ 
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/R.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/go.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/haskell.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/kotlin.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/scala.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/swift.min.js"></script>
+    
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/languages/Markdown.min.js"></script>
+    
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+<script>$(document).on('click', function() { $('.collapse').collapse('hide'); })</script>
+ <meta name="generator" content="Hugo 0.79.0" />
+        
+
+        
+            <script async src="https://www.googletagmanager.com/gtag/js?id=UA-140459061-2"></script>
+            <script>
+              window.dataLayer = window.dataLayer || [];
+              function gtag(){dataLayer.push(arguments)};
+              gtag('js', new Date());
+              gtag('config', 'UA-140459061-2');
+            </script>
+        
+
+        
+            <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+        
+
+        
+
+    </head>
+
+    <body>
+        
+
+        <nav class="navbar navbar-default navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <a class="navbar-brand visible-xs" href="#">Meetup15 - Simona Gradinaru despre digital analytics cu R</a>
+                    <button class="navbar-toggle" data-target=".navbar-collapse" data-toggle="collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                </div>
+                <div class="collapse navbar-collapse">
+                    
+                        <ul class="nav navbar-nav">
+                            
+                                <li><a href="/">Home</a></li>
+                            
+                                <li><a href="/about/">Despre</a></li>
+                            
+                                <li><a href="/post/">Articole</a></li>
+                            
+                                <li><a href="/project/">Proiecte</a></li>
+                            
+                        </ul>
+                    
+                    
+                        <ul class="nav navbar-nav navbar-right">
+                            
+                                <li class="navbar-icon"><a href="mailto:bucuresti@rladies.org"><i class="fa fa-envelope-o"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://github.com/rladies/meetup-presentations_bucharest/"><i class="fa fa-github"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://twitter.com/rladiesbuchares/"><i class="fa fa-twitter"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.facebook.com/RLadiesBucharest/"><i class="fa fa-facebook"></i></a></li>
+                            
+                                <li class="navbar-icon"><a href="https://www.meetup.com/rladies-bucharest/"><i class="fa fa-meetup"></i></a></li>
+                            
+                        </ul>
+                    
+                </div>
+            </div>
+        </nav>
+
+
+<main>
+
+    <div>
+        <h2>Meetup15 - Simona Gradinaru despre digital analytics cu R</h2>
+        <h5>February 17, 2021</h5>
+        
+<a href="http://www.rladiesbucharest.org/tags/r"><kbd class="item-tag">R</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/bucharest"><kbd class="item-tag">Bucharest</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/meetup-retrospective"><kbd class="item-tag">meetup-retrospective</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/digital-analytics"><kbd class="item-tag">digital-analytics</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/googleanalyticsr"><kbd class="item-tag">googleAnalyticsR</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/blogger"><kbd class="item-tag">blogger</kbd></a>
+
+
+    </div>
+
+    <div align="start" class="content"><p>O noua intalnire despre R, in care am descoperit digital analytics.</p>
+<p><strong>Simona Gradinaru</strong>, blogger of <a href="http://thescienceofdating.rbind.io/">The Science Of Dating</a>, data scientist YouGov si coFondator <a href="http://wimlds.org/about-the-bucharest-team/">Bucharest WiMLDS</a>, a venit sa ne povesteasca cum sa facem tracking in digital analytics cu R.</p>
+<p><strong>Digital Analytics</strong> este o arie foarte intuitiva cu multe date, in general de tip time series, multe surse si tool-uri, dar care pot ajuta foarte mult in intelegerea audientei si adaptarea modului de a comunica pe blog.</p>
+<p>Pentru inceput folosirea google analytics, este un prim pas. Iar pentru analiza acestor informatii cu R, putem folosi pachetul <strong>googleAnalyticsR</strong>, dezvoltat si mentinut de Mark Edmondson. Alte arii, de exemplu, google search console, focusul pe adaptarea si optimizarea blogului pentru mobil au fost cateva din insight-urile validate de analiza facuta de Simona.</p>
+<p>Pentru exemplele discutate in meetup este suficienta instalarea programelor R, ggplot2, googleAnalytics &amp; R Studio.</p>
+<p>Pentru cei care nu ati reusit sa ajungeti, inregistrarea intalnirii este acum disponibila pe youtube:</p>
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+  <iframe src="https://www.youtube.com/embed/_HYc-dHFPfA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video"></iframe>
+</div>
+
+<p>Nu uitati sa ne sustineti printr-un like, share sau implicarea in evenimentele noastre! Next meetup: <a href="https://www.meetup.com/rladies-bucharest/events/276302452/">23 Martie - Julia Silge Three Reasons to choose Tidymodels</a></p>
+</div>
+
+    
+    
+    
+        <h4 class="page-header">Related</h4>
+         <div class="item">
+
+    
+    
+    
+
+    
+    
+
+    <h4><a href="/post/2020-12-15-meetup14-christmas-sharing-special-edition/">Meetup14 - chRistmas shaRing Special Edition</a></h4>
+    <h5>December 15, 2020</h5>
+    
+<a href="http://www.rladiesbucharest.org/tags/r"><kbd class="item-tag">R</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/bucharest"><kbd class="item-tag">Bucharest</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/meetup-sharing-session"><kbd class="item-tag">meetup-sharing-session</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/googlesheets4"><kbd class="item-tag">googlesheets4</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/golan"><kbd class="item-tag">golan</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/rmarkdown"><kbd class="item-tag">rmarkdown</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/xaringan"><kbd class="item-tag">xaringan</kbd></a>
+
+
+
+</div>
+  <div class="item">
+
+    
+    
+    
+
+    
+    
+
+    <h4><a href="/post/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi/">Meetup13 - Ana-Maria Niculescu &amp; Frie Preu despre R, git, Github &amp; Raspberry Pi</a></h4>
+    <h5>November 24, 2020</h5>
+    
+<a href="http://www.rladiesbucharest.org/tags/r"><kbd class="item-tag">R</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/bucharest"><kbd class="item-tag">Bucharest</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/meetup-retrospective"><kbd class="item-tag">meetup-retrospective</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/git"><kbd class="item-tag">git</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/github"><kbd class="item-tag">github</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/raspberrypi"><kbd class="item-tag">raspberrypi</kbd></a>
+
+
+
+</div>
+  <div class="item">
+
+    
+    
+    
+
+    
+    
+
+    <h4><a href="/post/2020-10-20-meetup12-text-mining-with-r-aurore-paligot/">Meetup12 - Aurore Paligot despre &#39;Text mining with R&#39;</a></h4>
+    <h5>October 20, 2020</h5>
+    
+<a href="http://www.rladiesbucharest.org/tags/r"><kbd class="item-tag">R</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/bucharest"><kbd class="item-tag">Bucharest</kbd></a>
+
+<a href="http://www.rladiesbucharest.org/tags/meetup-retrospective"><kbd class="item-tag">meetup-retrospective</kbd></a>
+
+
+
+</div>
+ 
+    
+
+    
+    
+
+</main>
+
+        <footer>
+            <p class="copyright text-muted">2020-2021 © All rights reserved. R Ladies Bucharest. Powered by <!-- raw HTML omitted --> Hugo <!-- raw HTML omitted --> and <!-- raw HTML omitted --> Minimal <!-- raw HTML omitted --> .</p>
+        </footer>
+
+        
+
+        
+    </body>
+
+</html>
+
