@@ -6,22 +6,40 @@
     <description>Recent content in Tags on R Ladies Bucharest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 17 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rladiesbucharest.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rladiesbucharest.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bucharest</title>
+      <link>https://www.rladiesbucharest.org/tags/bucharest/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/bucharest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://www.rladiesbucharest.org/tags/r/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidytuesday</title>
+      <link>https://www.rladiesbucharest.org/tags/tidytuesday/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/tidytuesday/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>blogger</title>
       <link>https://www.rladiesbucharest.org/tags/blogger/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.rladiesbucharest.org/tags/blogger/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bucharest</title>
-      <link>https://www.rladiesbucharest.org/tags/bucharest/</link>
-      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rladiesbucharest.org/tags/bucharest/</guid>
       <description></description>
     </item>
     
@@ -49,24 +67,6 @@
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.rladiesbucharest.org/tags/meetup-retrospective/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>https://www.rladiesbucharest.org/tags/r/</link>
-      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rladiesbucharest.org/tags/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tidytuesday</title>
-      <link>https://www.rladiesbucharest.org/tags/tidytuesday/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.rladiesbucharest.org/tags/tidytuesday/</guid>
       <description></description>
     </item>
     

@@ -6,7 +6,7 @@
     <description>Recent content in Projects on R Ladies Bucharest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rladiesbucharest.org/project/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rladiesbucharest.org/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>8 Martie - Ziua Internationala a Femeii</title>
       <link>https://www.rladiesbucharest.org/project/2020-03-08-ziua-femeii/</link>
@@ -21,15 +21,15 @@ Ne bucuram ca am tinut aceasta intalnire online, folosind google meet si astfel 
     <item>
       <title>Programam impreuna martea?</title>
       <link>https://www.rladiesbucharest.org/project/2021-01-03-code-along-tidytuesday/</link>
-      <pubDate>Sun, 03 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://www.rladiesbucharest.org/project/2021-01-03-code-along-tidytuesday/</guid>
-      <description>Incepand cu 2021, incercam un format nou de intalniri: #tidytuesday.
-Acest format este initiat in 2018 de Jesse Maegan.
+      <description>Incepand cu 2022, incercam un format nou de intalniri: #tidytuesday.
+Acest format este initiat in 2018 de Jesse Maegan si continua si azi
 Obiectivul acestor intalniri este
- construirea unui mediu sigur si incurajator pentru participanti exersarea competentelor de prelucrare si vizualizare a datelor.  Pentru a porni acest proiect cautam mentori si participanti!
-  Participantii
- sunt utilizatori de R, incepatori sau intermediari au acces la o conexiune de internet si un PC/laptop sunt confortabili sa isi instaleze singuri aplicatii pe PC vor participa saptamanal, dar cel putin 1 la 3 saptamani isi doresc sa-si imbunatateasca competentele in analiza datelor vor respecta codul conduita.</description>
+ construirea unui mediu sigur si incurajator pentru participanti exersarea competentelor de prelucrare si vizualizare a datelor.  Pentru a mentine idea accesibila, vom functiona astfel:
+  Perioada de inscriere pentru mentori open &amp;amp; on-going.
+Pentru a porni acest proiect cautam mentori interesati sa modereze aceste sesiuni!</description>
     </item>
     
   </channel>
