@@ -22,13 +22,17 @@ jobs:
     - name: Build
       run: hugo --minify
     
+   # - name: Deploy
+    #  uses: peaceiris/actions-gh-pages@v3
+     # if: github.ref == 'refs/heads/master'
+      #with:
+       #   github_token: ${{ secrets.GITHUB_TOKEN }}
+        #  publish_dir: ./docs
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
-      if: github.ref == 'refs/heads/master'
       with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./docs
-
+       github_token: ${{ secrets.GITHUB_TOKEN }}
+       destination_dir: ./docs
     # Step 6 - Push our generated site to our gh-pages branch
     #- name: Deploy to GitHub Pages
      # uses: peaceiris/actions-gh-pages@v3
