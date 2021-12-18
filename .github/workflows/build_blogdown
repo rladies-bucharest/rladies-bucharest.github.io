@@ -1,0 +1,36 @@
+on:
+  push:
+    branches: [master]
+
+name: blogdown
+
+jobs:
+  blogdown:
+    runs-on: ubuntu-latest
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          submodules: true
+
+      - uses: r-lib/actions/setup-pandoc@v1
+
+      - uses: r-lib/actions/setup-r@v1
+        with:
+          use-public-rspm: true
+
+      - name: Install blogdown
+        run: |
+          R -e 'install.packages("blogdown")'
+      - name: Install hugo
+        run: |
+          R -e 'blogdown::install_hugo(version = "0.89.2")'
+      - name: Build site
+        run: |
+          R -e 'blogdown::build_site(local = TRUE)'
+      - name: Deploy to GitHub pages 🚀
+        uses: JamesIves/github-pages-deploy-action@4.1.4
+        with:
+          branch: gh-pages
+          folder: docs
