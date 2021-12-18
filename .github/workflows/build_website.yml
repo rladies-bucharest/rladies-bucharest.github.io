@@ -19,8 +19,10 @@ jobs:
         hugo-version: ${{ steps.vars.outputs.hugo_vr }}
         extended: true
 
-    - name: Build
-      run: hugo --minify
+    # - name: Build
+    #  run: hugo --minify
+    - name: Build site
+      run: hugo
 
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
