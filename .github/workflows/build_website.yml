@@ -21,15 +21,13 @@ jobs:
 
     - name: Build
       run: hugo --minify
-    #- name: Build site
-    #  run: hugo
 
     # Step 6 - Push our generated site to our gh-pages branch
-    - name: Deploy
+    - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       env:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
-          EXTERNAL_REPOSITORY: rladies-bucharest/rladies-bucharest.github.io/website/
+         # EXTERNAL_REPOSITORY: rladies-bucharest/rladies-bucharest.github.io/website/
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: master
           publish_dir: ./docs
