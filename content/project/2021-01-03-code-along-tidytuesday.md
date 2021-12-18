@@ -1,6 +1,6 @@
 ---
-date: '2021-01-03'
-description: Code Along at tidytuesday - Bucharest 
+date: '2021-12-03'
+description: Code Along at RO #tidytuesday
 draft: false
 tags:
 - R
@@ -10,7 +10,7 @@ title: Programam impreuna martea?
 weight: 2
 ---
 
-Incepand cu 2021, incercam un format nou de intalniri: [#tidytuesday](https://github.com/rfordatascience/tidytuesday).
+Incepand cu 2022, incercam un format nou de intalniri: [#tidytuesday](https://github.com/rfordatascience/tidytuesday).
 
 Acest format este initiat in 2018 de [Jesse Maegan](https://www.jessemaegan.com/post/r4ds-the-next-iteration/).
 
@@ -18,15 +18,7 @@ Obiectivul acestor intalniri este
  * construirea unui mediu sigur si incurajator pentru participanti 
  * exersarea competentelor de prelucrare si vizualizare a datelor.
 
-Pentru a porni acest proiect **cautam mentori si participanti!**
-
-- **Participantii** 
-  - sunt utilizatori de R, incepatori sau intermediari
-  - au acces la o conexiune de internet si un PC/laptop
-  - sunt confortabili sa isi instaleze singuri aplicatii pe PC
-  - vor participa saptamanal, dar cel putin 1 la 3 saptamani
-  - isi doresc sa-si imbunatateasca competentele in analiza datelor
-  - vor respecta codul conduita.
+Pentru a porni acest proiect **cautam mentori interesati sa modereze aceste sesiuni!**
 
 - **Mentorii** 
   - sunt entuziasti si impartasesc cu placere cunostiinte
@@ -38,12 +30,12 @@ Pentru a porni acest proiect **cautam mentori si participanti!**
   
 Pentru a mentine idea accesibila, vom functiona astfel:
 
-- Perioada de inscriere **17.02-15.03.2021**, cu posibilitatea de extindere.
+- Perioada de inscriere pentru mentori **open & on-going**.
 
-- [**Inregistrarea**](https://forms.gle/wFzEQipsBJhAdshy6) se va face [aici](https://forms.gle/wFzEQipsBJhAdshy6): alegandu-se rolul preferat & completand emailul pentru comunicari. 
+- Perioada de inscriere pentru mentori **[check Meetup page](https://www.meetup.com/rladies-bucharest/events/)**.
 
-- [**slack**](https://join.slack.com/t/rladiesbucharest/shared_invite/zt-fkynte13-~JIGtZnPgvYbY4Z9aHP5lQ) va fi forumul de comunicare al comunitatii ( vom folosi [slack-ul](https://join.slack.com/t/rladiesbucharest/shared_invite/zt-fkynte13-~JIGtZnPgvYbY4Z9aHP5lQ) deja existent al R-Ladies Bucharest, canalul dedicat #tidytuesday); nu este obligatoriu, dar este recomandat.
 
-- Prima intalnirea: TBC / DD.MM.**2021** 
+
+- Prima intalnirea: 25.01.**2022** 
 
 Alte intrebari: bucuresti at rladies.org
