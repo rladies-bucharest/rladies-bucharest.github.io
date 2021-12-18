@@ -1,1 +1,164 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on R Ladies Bucharest</title><link>https://www.rladiesbucharest.org/tags/</link><description>Recent content in Tags on R Ladies Bucharest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rladiesbucharest.org/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>Bucharest</title><link>https://www.rladiesbucharest.org/tags/bucharest/</link><pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/bucharest/</guid><description/></item><item><title>R</title><link>https://www.rladiesbucharest.org/tags/r/</link><pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/r/</guid><description/></item><item><title>tidytuesday</title><link>https://www.rladiesbucharest.org/tags/tidytuesday/</link><pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/tidytuesday/</guid><description/></item><item><title>blogger</title><link>https://www.rladiesbucharest.org/tags/blogger/</link><pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/blogger/</guid><description/></item><item><title>digital-analytics</title><link>https://www.rladiesbucharest.org/tags/digital-analytics/</link><pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/digital-analytics/</guid><description/></item><item><title>googleAnalyticsR</title><link>https://www.rladiesbucharest.org/tags/googleanalyticsr/</link><pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/googleanalyticsr/</guid><description/></item><item><title>meetup-retrospective</title><link>https://www.rladiesbucharest.org/tags/meetup-retrospective/</link><pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/meetup-retrospective/</guid><description/></item><item><title>golan</title><link>https://www.rladiesbucharest.org/tags/golan/</link><pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/golan/</guid><description/></item><item><title>googlesheets4</title><link>https://www.rladiesbucharest.org/tags/googlesheets4/</link><pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/googlesheets4/</guid><description/></item><item><title>meetup-sharing-session</title><link>https://www.rladiesbucharest.org/tags/meetup-sharing-session/</link><pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/meetup-sharing-session/</guid><description/></item><item><title>rmarkdown</title><link>https://www.rladiesbucharest.org/tags/rmarkdown/</link><pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/rmarkdown/</guid><description/></item><item><title>xaringan</title><link>https://www.rladiesbucharest.org/tags/xaringan/</link><pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/xaringan/</guid><description/></item><item><title>git</title><link>https://www.rladiesbucharest.org/tags/git/</link><pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/git/</guid><description/></item><item><title>github</title><link>https://www.rladiesbucharest.org/tags/github/</link><pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/github/</guid><description/></item><item><title>raspberrypi</title><link>https://www.rladiesbucharest.org/tags/raspberrypi/</link><pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/raspberrypi/</guid><description/></item><item><title>Simona Gradinaru</title><link>https://www.rladiesbucharest.org/tags/simona-gradinaru/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/simona-gradinaru/</guid><description/></item><item><title>Ziua femeii</title><link>https://www.rladiesbucharest.org/tags/ziua-femeii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/tags/ziua-femeii/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on R Ladies Bucharest</title>
+    <link>https://www.rladiesbucharest.org/tags/</link>
+    <description>Recent content in Tags on R Ladies Bucharest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rladiesbucharest.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bucharest</title>
+      <link>https://www.rladiesbucharest.org/tags/bucharest/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/bucharest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meetup-retrospective</title>
+      <link>https://www.rladiesbucharest.org/tags/meetup-retrospective/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/meetup-retrospective/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://www.rladiesbucharest.org/tags/r/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tidytuesday</title>
+      <link>https://www.rladiesbucharest.org/tags/tidytuesday/</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/tidytuesday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blogger</title>
+      <link>https://www.rladiesbucharest.org/tags/blogger/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/blogger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>digital-analytics</title>
+      <link>https://www.rladiesbucharest.org/tags/digital-analytics/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/digital-analytics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>googleAnalyticsR</title>
+      <link>https://www.rladiesbucharest.org/tags/googleanalyticsr/</link>
+      <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/googleanalyticsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golan</title>
+      <link>https://www.rladiesbucharest.org/tags/golan/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/golan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>googlesheets4</title>
+      <link>https://www.rladiesbucharest.org/tags/googlesheets4/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/googlesheets4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>meetup-sharing-session</title>
+      <link>https://www.rladiesbucharest.org/tags/meetup-sharing-session/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/meetup-sharing-session/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rmarkdown</title>
+      <link>https://www.rladiesbucharest.org/tags/rmarkdown/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/rmarkdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xaringan</title>
+      <link>https://www.rladiesbucharest.org/tags/xaringan/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/xaringan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://www.rladiesbucharest.org/tags/git/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github</title>
+      <link>https://www.rladiesbucharest.org/tags/github/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>raspberrypi</title>
+      <link>https://www.rladiesbucharest.org/tags/raspberrypi/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/raspberrypi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simona Gradinaru</title>
+      <link>https://www.rladiesbucharest.org/tags/simona-gradinaru/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/simona-gradinaru/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ziua femeii</title>
+      <link>https://www.rladiesbucharest.org/tags/ziua-femeii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/tags/ziua-femeii/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

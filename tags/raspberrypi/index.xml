@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>raspberrypi on R Ladies Bucharest</title><link>https://www.rladiesbucharest.org/tags/raspberrypi/</link><description>Recent content in raspberrypi on R Ladies Bucharest</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rladiesbucharest.org/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml"/><item><title>Meetup13 - Ana-Maria Niculescu &amp; Frie Preu despre R, git, Github &amp; Raspberry Pi</title><link>https://www.rladiesbucharest.org/post/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi/</link><pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate><guid>https://www.rladiesbucharest.org/post/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi/</guid><description>O noua intalnire despre R, in care am descoperit cateva lucruri interesante.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>raspberrypi on R Ladies Bucharest</title>
+    <link>https://www.rladiesbucharest.org/tags/raspberrypi/</link>
+    <description>Recent content in raspberrypi on R Ladies Bucharest</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rladiesbucharest.org/tags/raspberrypi/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meetup13 - Ana-Maria Niculescu &amp; Frie Preu despre R, git, Github &amp; Raspberry Pi</title>
+      <link>https://www.rladiesbucharest.org/post/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.rladiesbucharest.org/post/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi/</guid>
+      <description>O noua intalnire despre R, in care am descoperit cateva lucruri interesante.
 Ana-Maria Niculescu, data scientist Numeract si coFondator Bucharest WiMLDS, a venit sa ne povesteasca cum sa pornim cu git si Github folosind R Studio.
 Git este un sistem de distributie a versiunilor de cod, este gratuit si open source. Un tool care ajuta la managementul evolutiei versiunilor de cod folosite.
-Github este un serviciu de web-hosting pentru managementul versiunilor cu git.</description></item></channel></rss>
+Github este un serviciu de web-hosting pentru managementul versiunilor cu git.</description>
+    </item>
+    
+  </channel>
+</rss>
