@@ -2,161 +2,161 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on R Ladies Bucharest</title>
-    <link>https://rladies-bucharest.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on R Ladies Bucharest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rladies-bucharest.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bucharest</title>
-      <link>https://rladies-bucharest.github.io/tags/bucharest/</link>
+      <link>/tags/bucharest/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/bucharest/</guid>
+      <guid>/tags/bucharest/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meetup-retrospective</title>
-      <link>https://rladies-bucharest.github.io/tags/meetup-retrospective/</link>
+      <link>/tags/meetup-retrospective/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/meetup-retrospective/</guid>
+      <guid>/tags/meetup-retrospective/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://rladies-bucharest.github.io/tags/r/</link>
+      <link>/tags/r/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>tidytuesday</title>
-      <link>https://rladies-bucharest.github.io/tags/tidytuesday/</link>
+      <link>/tags/tidytuesday/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/tidytuesday/</guid>
+      <guid>/tags/tidytuesday/</guid>
       <description></description>
     </item>
     
     <item>
       <title>blogger</title>
-      <link>https://rladies-bucharest.github.io/tags/blogger/</link>
+      <link>/tags/blogger/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/blogger/</guid>
+      <guid>/tags/blogger/</guid>
       <description></description>
     </item>
     
     <item>
       <title>digital-analytics</title>
-      <link>https://rladies-bucharest.github.io/tags/digital-analytics/</link>
+      <link>/tags/digital-analytics/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/digital-analytics/</guid>
+      <guid>/tags/digital-analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>googleAnalyticsR</title>
-      <link>https://rladies-bucharest.github.io/tags/googleanalyticsr/</link>
+      <link>/tags/googleanalyticsr/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/googleanalyticsr/</guid>
+      <guid>/tags/googleanalyticsr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>golan</title>
-      <link>https://rladies-bucharest.github.io/tags/golan/</link>
+      <link>/tags/golan/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/golan/</guid>
+      <guid>/tags/golan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>googlesheets4</title>
-      <link>https://rladies-bucharest.github.io/tags/googlesheets4/</link>
+      <link>/tags/googlesheets4/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/googlesheets4/</guid>
+      <guid>/tags/googlesheets4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>meetup-sharing-session</title>
-      <link>https://rladies-bucharest.github.io/tags/meetup-sharing-session/</link>
+      <link>/tags/meetup-sharing-session/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/meetup-sharing-session/</guid>
+      <guid>/tags/meetup-sharing-session/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rmarkdown</title>
-      <link>https://rladies-bucharest.github.io/tags/rmarkdown/</link>
+      <link>/tags/rmarkdown/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/rmarkdown/</guid>
+      <guid>/tags/rmarkdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>xaringan</title>
-      <link>https://rladies-bucharest.github.io/tags/xaringan/</link>
+      <link>/tags/xaringan/</link>
       <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/xaringan/</guid>
+      <guid>/tags/xaringan/</guid>
       <description></description>
     </item>
     
     <item>
       <title>git</title>
-      <link>https://rladies-bucharest.github.io/tags/git/</link>
+      <link>/tags/git/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/git/</guid>
+      <guid>/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>github</title>
-      <link>https://rladies-bucharest.github.io/tags/github/</link>
+      <link>/tags/github/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/github/</guid>
+      <guid>/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
       <title>raspberrypi</title>
-      <link>https://rladies-bucharest.github.io/tags/raspberrypi/</link>
+      <link>/tags/raspberrypi/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/raspberrypi/</guid>
+      <guid>/tags/raspberrypi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Simona Gradinaru</title>
-      <link>https://rladies-bucharest.github.io/tags/simona-gradinaru/</link>
+      <link>/tags/simona-gradinaru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/simona-gradinaru/</guid>
+      <guid>/tags/simona-gradinaru/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ziua femeii</title>
-      <link>https://rladies-bucharest.github.io/tags/ziua-femeii/</link>
+      <link>/tags/ziua-femeii/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/tags/ziua-femeii/</guid>
+      <guid>/tags/ziua-femeii/</guid>
       <description></description>
     </item>
     

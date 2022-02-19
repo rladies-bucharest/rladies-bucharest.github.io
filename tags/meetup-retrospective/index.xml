@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>meetup-retrospective on R Ladies Bucharest</title>
-    <link>https://rladies-bucharest.github.io/tags/meetup-retrospective/</link>
+    <link>/tags/meetup-retrospective/</link>
     <description>Recent content in meetup-retrospective on R Ladies Bucharest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rladies-bucharest.github.io/tags/meetup-retrospective/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/meetup-retrospective/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2021 Bucharest RLadies Meetups Retrospective</title>
-      <link>https://rladies-bucharest.github.io/post/2021-12-21-meetups-yearly-recap-r/</link>
+      <link>/post/2021-12-21-meetups-yearly-recap-r/</link>
       <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/post/2021-12-21-meetups-yearly-recap-r/</guid>
+      <guid>/post/2021-12-21-meetups-yearly-recap-r/</guid>
       <description>demo
 Pentru cei care nu ati reusit sa ajungeti, inregistrarile intalnirilor sunt acum disponibile pe youtube.</description>
     </item>
     
     <item>
       <title>Meetup15 - Simona Gradinaru despre digital analytics cu R</title>
-      <link>https://rladies-bucharest.github.io/post/2021-02-16-meetup15-simona-gradinaru-how-to-use-digital-analytics-for-tracking-using-r/</link>
+      <link>/post/2021-02-16-meetup15-simona-gradinaru-how-to-use-digital-analytics-for-tracking-using-r/</link>
       <pubDate>Wed, 17 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/post/2021-02-16-meetup15-simona-gradinaru-how-to-use-digital-analytics-for-tracking-using-r/</guid>
+      <guid>/post/2021-02-16-meetup15-simona-gradinaru-how-to-use-digital-analytics-for-tracking-using-r/</guid>
       <description>O noua intalnire despre R, in care am descoperit digital analytics.
 Simona Gradinaru, blogger of The Science Of Dating, data scientist YouGov si coFondator Bucharest WiMLDS, a venit sa ne povesteasca cum sa facem tracking in digital analytics cu R.
 Digital Analytics este o arie foarte intuitiva cu multe date, in general de tip time series, multe surse si tool-uri, dar care pot ajuta foarte mult in intelegerea audientei si adaptarea modului de a comunica pe blog.</description>
@@ -30,10 +30,10 @@ Digital Analytics este o arie foarte intuitiva cu multe date, in general de tip 
     
     <item>
       <title>Meetup13 - Ana-Maria Niculescu &amp; Frie Preu despre R, git, Github &amp; Raspberry Pi</title>
-      <link>https://rladies-bucharest.github.io/post/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi/</link>
+      <link>/post/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/post/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi/</guid>
+      <guid>/post/2020-11-24-meetup13-ana-maria-niculescu-frie-preu-despre-r-git-github-raspberry-pi/</guid>
       <description>O noua intalnire despre R, in care am descoperit cateva lucruri interesante.
 Ana-Maria Niculescu, data scientist Numeract si coFondator Bucharest WiMLDS, a venit sa ne povesteasca cum sa pornim cu git si Github folosind R Studio.
 Git este un sistem de distributie a versiunilor de cod, este gratuit si open source. Un tool care ajuta la managementul evolutiei versiunilor de cod folosite.
@@ -42,10 +42,10 @@ Github este un serviciu de web-hosting pentru managementul versiunilor cu git.</
     
     <item>
       <title>Meetup12 - Aurore Paligot despre &#39;Text mining with R&#39;</title>
-      <link>https://rladies-bucharest.github.io/post/2020-10-20-meetup12-text-mining-with-r-aurore-paligot/</link>
+      <link>/post/2020-10-20-meetup12-text-mining-with-r-aurore-paligot/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/post/2020-10-20-meetup12-text-mining-with-r-aurore-paligot/</guid>
+      <guid>/post/2020-10-20-meetup12-text-mining-with-r-aurore-paligot/</guid>
       <description>Deschiderea sezonului de intalniri, continua online cu o intalnire de tip tutorial sustinuta de Aurore Paligot, Data Analytics Consultant, Phd. .
 In seara aceasta, am descoperit cateva repedere despre ce inseamna text mining si cum putem sa pornim in aceasta explorare a textului. Aurore Paligot expert in lingvistica si pasionata de acest domeniu poate fi urmarite online pe blog sau Linkedin.
 Inregistrarea intalnirii este disponibila pe youtube
@@ -54,10 +54,10 @@ Inregistrarea intalnirii este disponibila pe youtube
     
     <item>
       <title>Primul panel al comunitatii pe teme de R in statistica, machine learning si   data science</title>
-      <link>https://rladies-bucharest.github.io/post/2020-09-30-primul-panel-al-comunitatii-pe-teme-de-r-in-statistica-machine-learning-si-data-science/</link>
+      <link>/post/2020-09-30-primul-panel-al-comunitatii-pe-teme-de-r-in-statistica-machine-learning-si-data-science/</link>
       <pubDate>Wed, 30 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://rladies-bucharest.github.io/post/2020-09-30-primul-panel-al-comunitatii-pe-teme-de-r-in-statistica-machine-learning-si-data-science/</guid>
+      <guid>/post/2020-09-30-primul-panel-al-comunitatii-pe-teme-de-r-in-statistica-machine-learning-si-data-science/</guid>
       <description>Deschiderea noului sezon de intalniri, a pornit cu o revedere - online - a speakerilor din intalnirile anterioare. Ne-am bucurat sa ii revedem pe:
  Ana Maria Niculescu, Lead Data Scientist Simona Grădinaru, Market Research, Data Scientist, Drd Andra Garoi, Jr Data Scientist, Data Science Master Student Maria Romanescu, Jr Data Scientist, Data Science Master Student Alexandra Conda, Data Science Master Student Mihai David, Banking, Data Scientist Cristi Cernat, IT Architect &amp;amp; Docker Expert.</description>
     </item>
