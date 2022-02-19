@@ -22,9 +22,9 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [[menu.main]]
-    url = "/"
+    url = "//"
     name = "Home"
-    weight = 0
+    weight = 1
 
 [[menu.main]]
     url = "/about/"
