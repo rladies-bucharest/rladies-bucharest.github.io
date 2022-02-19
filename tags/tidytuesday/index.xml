@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>tidytuesday on R Ladies Bucharest</title>
-    <link>https://www.rladiesbucharest.org/tags/tidytuesday/</link>
+    <link>https://rladies-bucharest.github.io/tags/tidytuesday/</link>
     <description>Recent content in tidytuesday on R Ladies Bucharest</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://www.rladiesbucharest.org/tags/tidytuesday/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://rladies-bucharest.github.io/tags/tidytuesday/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Programam impreuna martea?</title>
-      <link>https://www.rladiesbucharest.org/project/2021-01-03-code-along-tidytuesday/</link>
+      <link>https://rladies-bucharest.github.io/project/2021-01-03-code-along-tidytuesday/</link>
       <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://www.rladiesbucharest.org/project/2021-01-03-code-along-tidytuesday/</guid>
+      <guid>https://rladies-bucharest.github.io/project/2021-01-03-code-along-tidytuesday/</guid>
       <description>Incepand cu 2022, incercam un format nou de intalniri: #tidytuesday.
 Acest format este initiat in 2018 de Jesse Maegan si continua si azi
 Obiectivul acestor intalniri este
